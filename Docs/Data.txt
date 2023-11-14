@@ -1,0 +1,206 @@
+{
+  "authors": [
+    {
+      "name": "Gabriel García Márquez",
+      "nationality": "Colombian"
+    },
+    {
+      "name": "J.K. Rowling",
+      "nationality": "British"
+    },
+    {
+      "name": "Haruki Murakami",
+      "nationality": "Japanese"
+    },
+    {
+      "name": "Jane Austen",
+      "nationality": "British"
+    },
+    {
+      "name": "George Orwell",
+      "nationality": "British"
+    },
+    {
+      "name": "Agatha Christie",
+      "nationality": "British"
+    },
+    {
+      "name": "Albert Camus",
+      "nationality": "French"
+    },
+    {
+      "name": "Leo Tolstoy",
+      "nationality": "Russian"
+    },
+    {
+      "name": "F. Scott Fitzgerald",
+      "nationality": "American"
+    },
+    {
+      "name": "Toni Morrison",
+      "nationality": "American"
+    },
+    {
+      "name": "Kazuo Ishiguro",
+      "nationality": "British"
+    },
+    {
+      "name": "Isabel Allende",
+      "nationality": "Chilean"
+    },
+    {
+      "name": "Hermann Hesse",
+      "nationality": "German"
+    },
+    {
+      "name": "Ernest Hemingway",
+      "nationality": "American"
+    },
+    {
+      "name": "Emily Brontë",
+      "nationality": "British"
+    }
+  ]
+}
+
+
+{
+  "books": [
+    {
+      "title": "Cien años de soledad",
+      "publicationDate": "1967-05-30",
+      "author": {
+        "id": 1,
+        "name": "Gabriel García Márquez",
+        "nationality": "Colombian"
+      }
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "publicationDate": "1997-06-26",
+      "author": {
+        "id": 2,
+        "name": "J.K. Rowling",
+        "nationality": "British"
+      }
+    },
+    {
+      "title": "Norwegian Wood",
+      "publicationDate": "1987-08-04",
+      "author": {
+        "id": 3,
+        "name": "Haruki Murakami",
+        "nationality": "Japanese"
+      }
+    },
+    {
+      "title": "Pride and Prejudice",
+      "publicationDate": "1813-01-28",
+      "author": {
+        "id": 4,
+        "name": "Jane Austen",
+        "nationality": "British"
+      }
+    },
+    {
+      "title": "1984",
+      "publicationDate": "1949-06-08",
+      "author": {
+        "id": 5,
+        "name": "George Orwell",
+        "nationality": "British"
+      }
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "publicationDate": "1934-01-01",
+      "author": {
+        "id": 6,
+        "name": "Agatha Christie",
+        "nationality": "British"
+      }
+    },
+    {
+      "title": "The Stranger",
+      "publicationDate": "1942-01-01",
+      "author": {
+        "id": 7,
+        "name": "Albert Camus",
+        "nationality": "French"
+      }
+    },
+    {
+      "title": "War and Peace",
+      "publicationDate": "1869-01-01",
+      "author": {
+        "id": 8,
+        "name": "Leo Tolstoy",
+        "nationality": "Russian"
+      }
+    },
+    {
+      "title": "The Great Gatsby",
+      "publicationDate": "1925-04-10",
+      "author": {
+        "id": 9,
+        "name": "F. Scott Fitzgerald",
+        "nationality": "American"
+      }
+    },
+    {
+      "title": "Beloved",
+      "publicationDate": "1987-09-02",
+      "author": {
+        "id": 10,
+        "name": "Toni Morrison",
+        "nationality": "American"
+      }
+    },
+    {
+      "title": "Never Let Me Go",
+      "publicationDate": "2005-03-03",
+      "author": {
+        "id": 11,
+        "name": "Kazuo Ishiguro",
+        "nationality": "British"
+      }
+    },
+    {
+      "title": "The House of the Spirits",
+      "publicationDate": "1982-01-01",
+      "author": {
+        "id": 12,
+        "name": "Isabel Allende",
+        "nationality": "Chilean"
+      }
+    },
+    {
+      "title": "Siddhartha",
+      "publicationDate": "1922-01-01",
+      "author": {
+        "id": 13,
+        "name": "Hermann Hesse",
+        "nationality": "German"
+      }
+    },
+    {
+      "title": "The Old Man and the Sea",
+      "publicationDate": "1952-09-01",
+      "author": {
+        "id": 14,
+        "name": "Ernest Hemingway",
+        "nationality": "American"
+      }
+    },
+    {
+      "title": "Wuthering Heights",
+      "publicationDate": "1847-12-01",
+      "author": {
+        "id": 15,
+        "name": "Emily Brontë",
+        "nationality": "British"
+      }
+    }
+  ]
+}
+
